@@ -32,7 +32,6 @@ Berikut adalah fitur yang direncanakan, diimplementasikan secara bertahap.
 #### Fase Pengembangan Lanjutan
 * 🤖 **Deteksi Penyakit dengan AI:** Menggunakan AI (Gemini) untuk mendiagnosis masalah tanaman melalui foto.
 * 📔 **Jurnal Panen:** Fitur untuk mendokumentasikan keberhasilan panen dengan foto dan catatan pribadi.
-* 💬 **Komunitas & Interaksi:** Membangun fitur sosial seperti feed atau galeri untuk berbagi inspirasi dan tips antar pengguna.
 
 ---
 
