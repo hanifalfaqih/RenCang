@@ -49,7 +49,7 @@ Berikut adalah fitur yang direncanakan, diimplementasikan secara bertahap.
 
 ## 🚀 Memulai Proyek
 
-1.  Clone repositori ini: `git clone https://github.com/your-username/balkon-panen.git`
+1.  Clone repositori ini: `git clone https://github.com/your-username/balkon-panen.git](https://github.com/hanifalfaqih/RenCang.git`
 2.  Buka proyek menggunakan Android Studio versi terbaru.
 3.  Sinkronkan dependensi Gradle.
 4.  Build dan jalankan aplikasi.
