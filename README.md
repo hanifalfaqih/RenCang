@@ -1,4 +1,4 @@
-# Balkon Panen 🌱
+# RenCang 🌱
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
